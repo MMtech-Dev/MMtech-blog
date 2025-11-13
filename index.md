@@ -1,18 +1,19 @@
 ---
 layout: home
-title: MMNova Tech Blog
+title: MMtech Blog
 ---
 
-# Welcome to MMNova Tech Blog
+# Welcome to MMtech Blog
 
-Hi, I'm **Moh**, an IT Field Engineer at CERCO and founder of MMNova Ltd. I specialize in cybersecurity, data science, and AI-powered automation.
+Hi, I'm **Mohamed Musa**, an IT Field Engineer at CERCO and founder of MMNova Ltd. I specialize in cybersecurity, data science, and AI-powered automation.
 
 This blog documents my journey through software engineering, cybersecurity (Fortinet certified), and data science.
 
 ## About Me
 
 - 🔐 **Fortinet Certified** - FCF Cybersecurity, FortiGate Operator (in progress)
-- 🎓 **PDA Data Science Level 8** - Machine Learning, Python, Analytics  
+- 🎓 **PDA Data Science Level 8** - Machine Learning, Python, Analytics
+- 🎓 **BA Financial Services** - Financial Services, Fintech 
 - 💼 **IT Field Engineer** at CERCO (Fortinet Education Outreach Partner)
 - 🚀 **Founder** of MMNova Ltd - AI-powered automation consulting
 - ☁️ **AWS Certified** - Cloud Practitioner
@@ -36,9 +37,9 @@ This blog documents my journey through software engineering, cybersecurity (Fort
 
 ## Connect With Me
 
-- [GitHub](https://github.com/yourusername) - Replace with your GitHub username
-- [LinkedIn](https://linkedin.com/in/yourprofile) - Replace with your LinkedIn profile
-- Email: your-email@example.com
+- [GitHub](https://github.com/MMtech-Dev)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-musa-a35124286)
+- Email: gables.05-cannier@icloud.com
 
 ---
 
